@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Pahuja</h1>
+<h1 align="center">Hello 👋. I'm Pranav Pahuja</h1>
 <h3 align="center">Analytical problem-solver with experience in consulting. I combine strong coding and data analysis skills with automation and market knowledge expertise to identify and solve complex business challenges.</h3>
 
 - 🔭 I’m currently working on **client projects**
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I love astronomy/physics.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">contact@pranavpahuja.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
