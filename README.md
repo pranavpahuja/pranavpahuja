@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **client projects**
 
-- 👨‍💻 All of my projects are available at [pranavpahuja.com](pranavpahuja.com)
+- 👨‍💻 Some of my projects are available here, or at [pranavpahuja.com](pranavpahuja.com)
 
 - 💬 Ask me about **Python, automation, data analytics, retail solutions**
 
