@@ -32,7 +32,7 @@ I’m **Pranav Pahuja**, an **analytical problem-solver** with a passion for con
 
 - 📧 Email: [contact@pranavpahuja.com](mailto:contact@pranavpahuja.com)  
 - 🌐 Website: [pranavpahuja.com](https://pranavpahuja.com)  
-- 💼 LinkedIn: [linkedin.com/in/pranavpahuja](https://linkedin.com/in/pranavpahuja)
+- 💼 LinkedIn: [https://linkedin.com/in/prnvp](https://www.linkedin.com/in/prnvp/)]
 
 ---
 
