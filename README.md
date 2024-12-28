@@ -46,19 +46,11 @@ Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java,
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
 > ✨ *"Using technology and analytics to create impactful solutions for tomorrow’s business challenges."*
 
----
-
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavpahuja&show_icons=true&theme=radical)
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/pranavpahuja/pranavpahuja/output/snake.svg" alt="Snake animation" />
-
-###
