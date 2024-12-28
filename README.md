@@ -5,8 +5,8 @@
 
 ## 👋 Hello! Welcome to my GitHub Profile
 
-# I'm Pranav Pahuja.
-# Certified Consultant & Solutions Developer.
+### I'm Pranav Pahuja.
+### Certified Consultant & Solutions Developer.
 
 Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift, Linux, Windows, and macOS**, I craft automated solutions and deliver actionable insights to address complex business challenges.
 
