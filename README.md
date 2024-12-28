@@ -1,3 +1,9 @@
+## 🎓 Certifications
+
+- ![Google Data Analytics](https://img.shields.io/badge/Google-Data_Analytics_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- ![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced_Data_Analytics_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- ![Deloitte AI](https://img.shields.io/badge/Deloitte-AI_Certified_by_Deloitte_AI_Academy(TM)-2863A0?style=for-the-badge&logo=deloitte&logoColor=white)
+
 # Pranav Pahuja 🌟  
 🚀 *Transforming Business Challenges into Analytical Solutions*  
 
