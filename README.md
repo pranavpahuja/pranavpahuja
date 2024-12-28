@@ -5,7 +5,7 @@
 
 ## 👋 Hello! Welcome to my GitHub Profile
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?duration=20000&color=00A1E4&center=false&vCenter=true&lines=Hi,+I'm+Pranav+Pahuja,+Consulting+and+Automation+Expert.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=20000&width=435&lines=Hi%2C+I'm+Pranav+Pahuja%2C+Consultant+and+Solutions+Developer.)](https://git.io/typing-svg)
 
 Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift, Linux, Windows, and macOS**, I craft automated solutions and deliver actionable insights to address complex business challenges.
 
