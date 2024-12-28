@@ -10,7 +10,6 @@
 Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift, Linux, Windows, and macOS**, I craft automated solutions and deliver actionable insights to address complex business challenges.
 
 ---
-
 ## 💼 Professional Expertise
 
 🔹 **Consulting**: Specialized in developing innovative strategies and technical solutions.  
