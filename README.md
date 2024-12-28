@@ -5,7 +5,8 @@
 
 ## 👋 Hello! Welcome to my GitHub Profile
 
-I’m **Pranav Pahuja**, an **analytical problem-solver** with a passion for consulting and technology. Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift, Linux, Windows, and macOS**, I craft automated solutions and deliver actionable insights to address complex business challenges.
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00A1E4&lines=Hi,+I+am+Pranav+Pahuja;Consulting+and+Automation+Expert;Passionate+about+Analytics+%26+Data)
+Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift, Linux, Windows, and macOS**, I craft automated solutions and deliver actionable insights to address complex business challenges.
 
 ---
 
@@ -53,10 +54,7 @@ I’m **Pranav Pahuja**, an **analytical problem-solver** with a passion for con
 
 ---
 
-### 🔗 Visit my [GitHub Repository Overview](#)  
-*Explore my curated projects that reflect my skills and passion!*
-
-###
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavpahuja&show_icons=true&theme=radical)
 
 <br clear="both">
 
