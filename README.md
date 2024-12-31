@@ -44,7 +44,6 @@ Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java,
 ![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 
 ---
 
