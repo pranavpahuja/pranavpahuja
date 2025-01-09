@@ -5,7 +5,7 @@
 
 ## 👋 Hello! Welcome to my GitHub Profile
 
-### I'm Pranav Pahuja, a certified Consultant & Solutions Developer.
+### I'm Pranav Pahuja, a certified IT Consultant & Solutions Developer.
 
 Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift.**, I craft automated solutions and deliver actionable insights to address complex business challenges.
 
@@ -14,7 +14,6 @@ Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java,
 
 🔹 **Consulting**: Specialized in developing innovative strategies and technical solutions.  
 🔹 **Automation & Analytics**: Expertise in Python, Pandas, and Selenium to drive efficiency.  
-🔹 **Data Visualization**: Building impactful dashboards with Tableau to tell data-driven stories.  
 🔹 **Cross-Platform Development**: Proficient in Swift for macOS and iOS, and adept at Linux/Windows systems.  
 🔹 **Market Insights**: Combining technology and market knowledge for strategic advantage.
 
@@ -42,7 +41,6 @@ Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 ---
