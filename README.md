@@ -7,21 +7,21 @@
 
 ### I'm Pranav Pahuja, a certified IT Consultant & Solutions Developer.
 
-Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Swift.**, I craft automated solutions and deliver actionable insights to address complex business challenges.
+Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Oracle suite.**, I craft automated solutions and deliver actionable insights to address complex business challenges.
 
 ---
 ## 💼 Professional Expertise
 
 🔹 **Consulting**: Specialized in developing innovative strategies and technical solutions.  
 🔹 **Automation & Analytics**: Expertise in Python, Pandas, and Selenium to drive efficiency.  
-🔹 **Cross-Platform Development**: Proficient in Swift for macOS and iOS, and adept at Linux/Windows systems.  
+🔹 **Scalable Solution Development**: Proficient in creating scalable IT solutions, ensuring client success.
 🔹 **Market Insights**: Combining technology and market knowledge for strategic advantage.
 
 ---
 
 ## 🌟 Highlights
 
-- 🔭 **Currently Working On**: High-impact client projects focusing on automation and data analytics.  
+- 🔭 **Currently Working On**: High-impact client projects focusing on back-end, automation and data analytics.  
 - 👨‍💻 **Portfolio**: Explore some of my projects here or at [pranavpahuja.com](https://pranavpahuja.com).  
 - 💬 **Ask Me About**: Python, automation, data analytics, and retail solutions.  
 - ⚡ **Fun Fact**: Avid fan of **astronomy** and **physics**—exploring the universe through data.
