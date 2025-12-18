@@ -1,51 +1,72 @@
 # Pranav Pahuja 🌟  
-🚀 *Transforming Business Challenges into Analytical Solutions*  
+🚀 *Founder, Consultant & Builder of Data-Driven Systems*
 
 ---
 
-## 👋 Hello! Welcome to my GitHub Profile
+## 👋 Hello! Welcome to my GitHub
 
-### I'm Pranav Pahuja, a certified IT Consultant & Solutions Developer.
+I’m **Pranav Pahuja** — a consultant, technologist, and founder focused on building **analytical, automation-first systems** for complex business problems.
 
-Leveraging expertise in **Python, Oracle PL/SQL, Shell scripting, Tableau, Java, OpenCV, Pandas, Selenium, Oracle suite.**, I craft automated solutions and deliver actionable insights to address complex business challenges.
-
----
-## 💼 Professional Expertise
-
-🔹 **Consulting**: Specialized in developing innovative strategies and technical solutions.  
-🔹 **Automation & Analytics**: Expertise in Python, Pandas, and Selenium to drive efficiency.  
-🔹 **Scalable Solution Development**: Proficient in creating scalable IT solutions, ensuring client success.
-🔹 **Market Insights**: Combining technology and market knowledge for strategic advantage.
+I work at the intersection of **data, engineering, and decision-making**, with deep experience across retail, operations, and enterprise technology.
 
 ---
 
-## 🌟 Highlights
+## 🧠 What I Do
 
-- 🔭 **Currently Working On**: High-impact client projects focusing on back-end, automation and data analytics.  
-- 👨‍💻 **Portfolio**: Explore some of my projects here or at [pranavpahuja.com](https://pranavpahuja.com).  
-- 💬 **Ask Me About**: Python, automation, data analytics, and retail solutions.  
-- ⚡ **Fun Fact**: Avid fan of **astronomy** and **physics**—exploring the universe through data.
+- **Consulting & Problem Solving**  
+  Design and deliver data-driven solutions for large-scale business challenges.
 
----
+- **Automation & Analytics**  
+  Python-first approach using Pandas, SQL/PLSQL, Shell scripting, and orchestration to eliminate manual work and improve reliability.
 
-## 📫 Get in Touch  
+- **Scalable Systems**  
+  Build production-grade back-end systems, analytics pipelines, and decision layers that scale with business growth.
 
-- 📧 Email: [contact@pranavpahuja.com](mailto:contact@pranavpahuja.com)  
-- 🌐 Website: [pranavpahuja.com](https://pranavpahuja.com)  
-- 💼 LinkedIn: [https://linkedin.com/in/prnvp](https://www.linkedin.com/in/prnvp/)]
-
----
-
-## 🚀 Technology Stack  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white)  
-![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- **Retail & Operations Intelligence**  
+  Specialized experience in retail systems, failure modes, and predictive analytics.
 
 ---
 
-> ✨ *"Using technology and analytics to create impactful solutions for tomorrow’s business challenges."*
+## 🏢 Founder & Ownership
+
+I am the **Founder & Owner of prnvp&co**, a consulting and product studio focused on **AI, data, and probabilistic decision systems**.
+
+- 🌐 Company website: **[https://prnvp.com](https://prnvp.com)**  
+- 🧑‍💻 Company GitHub organization: **[https://github.com/prnvpco](https://github.com/prnvpco)**  
+
+All company products, IP, and systems (including risk and decision engines) live under the **prnvpco** organization.
+
+---
+
+## 🌍 Personal Presence
+
+- 👨‍💻 Personal website & portfolio: **[https://pranavpahuja.com](https://pranavpahuja.com)**  
+  *(About me, background, writing, and individual work)*
+
+- 💼 LinkedIn: **https://www.linkedin.com/in/prnvp/**  
+- 📧 Email: **contact@pranavpahuja.com**
+
+---
+
+## 🌟 Current Focus
+
+- 🔭 Building and refining **decision intelligence systems** for retail and operations  
+- 🧠 Exploring **probabilistic models, early-warning systems, and predictive analytics**  
+- 💬 Happy to discuss Python, automation, data platforms, and retail tech  
+- ⚡ Fun fact: Deep interest in **astronomy, physics, and complex systems**
+
+---
+
+## 🧰 Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+> ✨ *I build systems that help businesses stop reacting — and start controlling outcomes.*
 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavpahuja&show_icons=true&theme=radical)
 
